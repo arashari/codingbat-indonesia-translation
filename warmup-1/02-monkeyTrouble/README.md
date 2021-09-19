@@ -14,7 +14,7 @@ We have two monkeys, a and b, and the parameters aSmile and bSmile indicate if e
 > 
 > buatlah agar fungsi `monkeyTrouble` mengembalikan nilai `true` jika kita dalam masalah
 
-## clues
+## petunjuk
 - kata kuncinya adalah "sama-sama"
 
 ```
